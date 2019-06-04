@@ -1,0 +1,7 @@
+{
+  "title": "DevBot",
+  "project_title": "DevBot agent",
+  "url_project":"https://github.com/PedroRamosRguez/100daysofcode",
+  "body": "Agente para Google Assistant que busca ofertas de empleo usando la api de Github Jobs",
+  "image_url":  "https://unsplash.it/500/500/"
+}
