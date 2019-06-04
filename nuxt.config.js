@@ -49,6 +49,9 @@ module.exports = {
   generate: {
     routes: dynamicRoutes
   },
+  router: {
+    base: '/'
+  },
   /*
   ** Build configuration
   */
