@@ -49,9 +49,9 @@ module.exports = {
   /*
   ** Route config for pre-rendering
   */
-  generate: {
-    routes: dynamicRoutes
-  },
+  // generate: {
+  //   routes: dynamicRoutes
+  // },
   router: {
     base: '/'
   },
