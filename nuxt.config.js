@@ -34,6 +34,9 @@ module.exports = {
     script:[
       { src: 'https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js', type: 'text/javascript', body: true }
     ],
+    build: {
+      transpile: ['vue-carousel']
+    }
   },
   plugins: [{ src: '~plugins/vue-carousel', ssr: false }],
   render: {
