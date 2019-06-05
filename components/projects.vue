@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="wrapper" id="projects">
-      <h1> Projects</h1>
+      <h1> Proyectos</h1>
       <div class="cols">
         <div class="col"  v-for="post in posts" :key="post.date" ontouchstart="this.classList.toggle('hover');">
           <div class="container">

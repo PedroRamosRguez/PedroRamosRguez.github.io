@@ -1,6 +1,6 @@
 <template>
     <section>
-        <h1> About</h1>
+        <h1> Acerca de mi</h1>
         <div class="wrapper" style="width: 100%;">
             <div class="about" id="about" style="height:auto">
                 <h1 class="letras" style="width:auto; font-size:1.5em; ">
